@@ -36,10 +36,10 @@ The project demonstrates how to create a secure AWS network. It focuses on keepi
 
 Each component has its own documentation:
 
-- VPC + Subnets 
-- Routing + Gateways
-- Bastion + EC2
-- Load Balancer
-- RDS
-- Security Groups
-- Monitoring + issues replications
+- [VPC + Subnets](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/01-vpc-and-subnets.md)
+- [Routing + Gateways](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/02-routing-and-gateway.md)
+- [Bastion + EC2](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/03-bastion-and-ec2.md)
+- [Load Balancer](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/04-load-balancer.md)
+- [RDS](https://github.com/aliyaxAU/secure-vpc-architecture/blob/release-5/RDS-private-subnets/docs/05-rds-private-subnets.md)
+- [Security Groups](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/06-security-groups.md)
+- [Monitoring + issues replications](https://github.com/aliyaxAU/secure-vpc-architecture/blob/main/docs/07-monitoring-and-flowlogs.md)
