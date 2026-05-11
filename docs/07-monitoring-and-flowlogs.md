@@ -152,7 +152,7 @@ And ALB the instace is unhealthy
 ![alt text](<img/Test 2 ALB ec2 failed.png>)
 
 
-I'm checking affected EC2 instance and can see 1/checks passed, clicking on Status check and redireirng to cloudtrail -> event history. Filtering by Resource Name : `<EC2_INSTANCE_ID>`, filtered by today date. Checking whether AWS (or a human using AWS) did something that could break anythng.
+I'm checking affected EC2 instance and can see 1/checks passed, clicking on Status check and redirecting to cloudtrail -> event history. Filtering by Resource Name : `<EC2_INSTANCE_ID>`, filtered by today date. Checking whether AWS (or a human using AWS) did something that could break anythng.
 
 Searching for eventss, e.g. 
 - ModifyNetworkInterface
